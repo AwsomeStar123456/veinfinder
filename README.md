@@ -8,12 +8,12 @@ Logan Allen | u1190764 | Logan.Allen@utah.edu <br />
 Jin Jeong   | u1375534 | djwls97865@gmail.com <br />
 
 ## Parts List
-Raspberri Pi 2: https://www.raspberrypi.com/products/raspberry-pi-2-model-b/
-NoIR PiCam 2: https://www.raspberrypi.com/products/pi-noir-camera-v2/
-IR Emitter Array: 
-Projector: 
-IR Pass Filter: https://www.amazon.com/dp/B0981BX423?psc=1&ref=ppx_yo2ov_dt_b_product_details
-Voltage Regulator: 
+Raspberri Pi 2: https://www.raspberrypi.com/products/raspberry-pi-2-model-b/ <br />
+NoIR PiCam 2: https://www.raspberrypi.com/products/pi-noir-camera-v2/ <br />
+IR Emitter Array: <br />
+Projector: <br />
+IR Pass Filter: https://www.amazon.com/dp/B0981BX423?psc=1&ref=ppx_yo2ov_dt_b_product_details <br />
+Voltage Regulator: <br />
 
 ##Files
 ###Documentation
