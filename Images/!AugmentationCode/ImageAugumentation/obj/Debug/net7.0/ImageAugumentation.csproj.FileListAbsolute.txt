@@ -10,3 +10,15 @@ E:\!!IRL\School\!!University\UofU\ECE5960\Augmentation\Code\ImageAugumentation\o
 E:\!!IRL\School\!!University\UofU\ECE5960\Augmentation\Code\ImageAugumentation\obj\Debug\net7.0\refint\ImageAugumentation.dll
 E:\!!IRL\School\!!University\UofU\ECE5960\Augmentation\Code\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.pdb
 E:\!!IRL\School\!!University\UofU\ECE5960\Augmentation\Code\ImageAugumentation\obj\Debug\net7.0\ref\ImageAugumentation.dll
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\bin\Debug\net7.0\ImageAugumentation.deps.json
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\bin\Debug\net7.0\ImageAugumentation.dll
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\bin\Debug\net7.0\ImageAugumentation.pdb
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.csproj.AssemblyReference.cache
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.AssemblyInfoInputs.cache
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.AssemblyInfo.cs
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.csproj.CoreCompileInputs.cache
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.dll
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\refint\ImageAugumentation.dll
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ImageAugumentation.pdb
+E:\!!IRL\School\!!University\UofU\ECE5960\veinfinder\Images\!AugmentationCode\ImageAugumentation\obj\Debug\net7.0\ref\ImageAugumentation.dll
