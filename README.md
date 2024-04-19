@@ -23,4 +23,4 @@ This folder contains all of our documentation. This includes the assignments sub
 This folder contains our images. This includes the original dataset along with the augmented dataset. The Images folder also contains the C# code which augments our images. It is recommended you run this augmentation code on any new images as it greatly improves the models preformance.
 
 ### ML Models
-This folder contains all of the models which we have deemed as successful.
+This folder contains all of the models which we have deemed as successful. This is only the output from Rich's models. The actual models are too large to be uploaded to GitHub so they can be found here: https://drive.google.com/drive/folders/1DGls1SB5syulKGr5hgQqLpTfuY4aNmA4?usp=sharing
