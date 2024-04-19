@@ -10,8 +10,8 @@ Jin Jeong   | u1375534 | djwls97865@gmail.com <br />
 ## Parts List
 Raspberri Pi 2: https://www.raspberrypi.com/products/raspberry-pi-2-model-b/ <br />
 NoIR PiCam 2: https://www.raspberrypi.com/products/pi-noir-camera-v2/ <br />
-IR Emitter Array: <br />
-Projector: <br />
+IR Emitter Array: https://www.ebay.com/itm/203067233072?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=203067233072&targetid=2295557531990&device=c&mktype=pla&googleloc=9029771&poi=&campaignid=19851828444&mkgroupid=160536780385&rlsatarget=pla-2295557531990&abcId=9307249&merchantid=101644847&gad_source=1&gclid=Cj0KCQjwiYOxBhC5ARIsAIvdH51PvhkMOsm8p80wdNCZ_c5YhiLxNzNg80BskEwZZuzRu6qdxxyuCBwaApDhEALw_wcB <br />
+Projector: https://www.amazon.com/KODAK-Luma-Pocket-Projector-Built/dp/B07RLXZ88F/ref=asc_df_B07RLXZ88F?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80195746823025&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795273963725&psc=1 <br />
 IR Pass Filter: https://www.amazon.com/dp/B0981BX423?psc=1&ref=ppx_yo2ov_dt_b_product_details <br />
 Voltage Regulator: <br />
 
