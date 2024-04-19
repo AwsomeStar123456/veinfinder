@@ -15,12 +15,12 @@ Projector: <br />
 IR Pass Filter: https://www.amazon.com/dp/B0981BX423?psc=1&ref=ppx_yo2ov_dt_b_product_details <br />
 Voltage Regulator: <br />
 
-##Files
-###Documentation
+## Files
+### Documentation
 This folder contains all of our documentation. This includes the assignments submitted throughout the semester along with our technical documentation.
 
-###Images
+### Images
 This folder contains our images. This includes the original dataset along with the augmented dataset. The Images folder also contains the C# code which augments our images. It is recommended you run this augmentation code on any new images as it greatly improves the models preformance.
 
-###ML Models
+### ML Models
 This folder contains all of the models which we have deemed as successful.
