@@ -1,0 +1,12 @@
+LEARNING_RATE = 2e-5 
+BATCH_SIZE = 16
+NUM_EPOCHS = 16 # number of epochs to train the model
+NUM_WORKERS = 16 # based on number of cores
+CHANNELS_INPUT = 3 # Grayscale
+CHANNELS_OUTPUT = 3 # RGB
+
+Bosnian Energy 2 Dataset
+
+Dataset: 2,808 images, 2,246 used for training
+
+Super solid results. Early epochs were getting to the success of our earlier successful models but with even less runs. Definitely getting smaller veins picked out which is nice, but overall getting similar results in terms of picking out the more defined veins while leaving out anything super small.

@@ -17,10 +17,13 @@ Voltage Regulator: <br />
 
 ## Files
 ### Documentation
-This folder contains all of our documentation. This includes the assignments submitted throughout the semester along with our technical documentation.
+The Documentation folder contains the documentation of our project. This includes all of the various documents that we created over the semester. Included is also a wiring diagram. The diagram shows how the power delivery works and how all of the components are connected to eachother. There is also an SOP which discusses how the veinfinder should be used.
 
 ### Images
-This folder contains our images. This includes the original dataset along with the augmented dataset. The Images folder also contains the C# code which augments our images. It is recommended you run this augmentation code on any new images as it greatly improves the models preformance.
+This folder includes all of the training images we have taken along with the augmentation code. The augmentation code is in C# which we run using Visual Studio. There is a folder for the original image set of 117 images from 12 people. There is another folder which contains all of the augmented images. This folder contains 2,808 images which are augmented from the original dataset. We have found that this can give us a very good model.
 
 ### ML Models
-This folder contains all of the models which we have deemed as successful. This is only the output from Rich's models. The actual models are too large to be uploaded to GitHub so they can be found here: https://drive.google.com/drive/folders/1DGls1SB5syulKGr5hgQqLpTfuY4aNmA4?usp=sharing
+This folder contains all of the models which we have deemed as successful. This contains the images showing how each epoch changes the model. There is also a text document where we outline the training set as well as the learning late. The actual models are too large to be uploaded to GitHub so they can be found here: https://drive.google.com/drive/folders/1DGls1SB5syulKGr5hgQqLpTfuY4aNmA4?usp=sharing
+
+## Notes
+The SOP contains a lot of valuable information. Please read it. Make sure you understand the wiring diagram.

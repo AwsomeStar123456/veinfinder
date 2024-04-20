@@ -1,0 +1,12 @@
+LEARNING_RATE = 2e-5 
+BATCH_SIZE = 16
+NUM_EPOCHS = 300 # number of epochs to train the model
+NUM_WORKERS = 16 # based on number of cores
+CHANNELS_INPUT = 3 # Grayscale
+CHANNELS_OUTPUT = 3 # RGB
+
+Bosnian Energy 2 Dataset
+
+Dataset: 2,808 images, 2,246 used for training
+
+Also solid results. Ran overnight with an absurd number of epochs just to see how it would do. By the end, we had a loss of 0.0928 which is definitely the lowest I've seen so far from any of our models. Seems to doing well despite possible concerns with overfitting.
