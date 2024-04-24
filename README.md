@@ -14,6 +14,7 @@ IR Emitter Array: https://www.ebay.com/itm/203067233072?chn=ps&norover=1&mkevt=1
 Projector: https://www.amazon.com/KODAK-Luma-Pocket-Projector-Built/dp/B07RLXZ88F/ref=asc_df_B07RLXZ88F?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80195746823025&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795273963725&psc=1 <br />
 IR Pass Filter: https://www.amazon.com/dp/B0981BX423?psc=1&ref=ppx_yo2ov_dt_b_product_details <br />
 Voltage Regulator: https://a.co/d/2TbWu2m <br />
+Beam Splitter: https://www.amazon.com/dp/B00MA5S2YE?ref_=cm_sw_r_cso_cp_apin_dp_VDXDWMDAAD2QBHMKNW0C&starsLeft=1 <br />
 
 ## Files
 ### Documentation
